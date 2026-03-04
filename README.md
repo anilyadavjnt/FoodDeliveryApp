@@ -18,5 +18,7 @@ Modern UI: Clean design with a focus on high-quality visuals and accessibility.
 This project helped me dive deeper into programmatic UI, Auto Layout, and managing state across different view controllers. Continuous learning and building! 🚀
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 15" src="https://github.com/user-attachments/assets/7f11d419-598e-45bb-ae83-5c7a1e50b2c4" />
+using Swift and UIKit
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 40" src="https://github.com/user-attachments/assets/2e2df8e6-4e8c-4c7f-8403-ed329030ec7e" />
+using Swift and UIKit
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 44" src="https://github.com/user-attachments/assets/d14f48dd-9ee8-4ee6-9057-50be3d7dda5e" />
