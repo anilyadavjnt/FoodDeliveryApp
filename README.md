@@ -1,4 +1,4 @@
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 41 47" src="https://github.com/user-attachments/assets/a4ea49f2-c318-4b63-af57-6e036d116916" />
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 41 47" src="https://github.com/user-attachments/assets/a4ea49f2-c318-4b63-af57-6e036d116916" />
 
 🚀 Exciting Project Update: Food Delivery App (iOS)
 I’m thrilled to share a sneak peek of my latest iOS project! 🍔📱 Built using Swift and UIKit, this app focuses on a clean user experience and smooth navigation for food enthusiasts.
