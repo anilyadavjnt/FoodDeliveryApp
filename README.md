@@ -3,7 +3,7 @@
 🚀 Exciting Project Update: Food Delivery App (iOS)
 I’m thrilled to share a sneak peek of my latest iOS project! 🍔📱 Built using Swift and UIKit, this app focuses on a clean user experience and smooth navigation for food enthusiasts.
 
-🛠️ Key Features:
+🛠️ Key Features:-
 
 Intuitive Onboarding: A warm welcome screen to get users started.
 
