@@ -60,35 +60,13 @@ This project was created to demonstrate practical iOS development skills includi
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 41 47" src="https://github.com/user-attachments/assets/a4ea49f2-c318-4b63-af57-6e036d116916" />
 
-<p align="center">
-  <img src="Screenshots/home.png" width="250">
-</p>
 
-### 🍔 Food Categories
 
-<p align="center">
-  <img src="Screenshots/categories.png" width="250">
-</p>
-
-### 🍕 Food Details
-
-<p align="center">
-  <img src="Screenshots/food-details.png" width="250">
-</p>
-
-### 🛒 Cart
-
-<p align="center">
-  <img src="Screenshots/cart.png" width="250">
-</p>
-
-### 📦 Checkout / Order
-
-<p align="center">
-  <img src="Screenshots/checkout.png" width="250">
-</p>
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 15" src="https://github.com/user-attachments/assets/7f11d419-598e-45bb-ae83-5c7a1e50b2c4" />
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 40" src="https://github.com/user-attachments/assets/2e2df8e6-4e8c-4c7f-8403-ed329030ec7e" />
+<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 44" src="https://github.com/user-attachments/assets/d14f48dd-9ee8-4ee6-9057-50be3d7dda5e" />
 
 ---
 
@@ -141,7 +119,7 @@ FoodDeliveryApp/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FoodDeliveryApp-iOS.git
+git clone https://github.com/anilyadavjnt/FoodDeliveryApp-iOS.git
 ```
 
 Navigate to the project:
@@ -210,21 +188,3 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Anil Kumar Yadav**
-
-**iOS Developer | Swift | UIKit**
-
-* GitHub: `https://github.com/YOUR_USERNAME`
-* LinkedIn: `https://www.linkedin.com/in/YOUR_USERNAME/`
-
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a ⭐ on GitHub.
-
----
-
-## 📄 License
-
-This project is available for learning and portfolio purposes.
