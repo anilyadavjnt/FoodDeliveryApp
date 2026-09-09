@@ -1,10 +1,4 @@
-<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 41 47" src="https://github.com/user-attachments/assets/a4ea49f2-c318-4b63-af57-6e036d116916" />
 
-
-
-<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 15" src="https://github.com/user-attachments/assets/7f11d419-598e-45bb-ae83-5c7a1e50b2c4" />
-<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 40" src="https://github.com/user-attachments/assets/2e2df8e6-4e8c-4c7f-8403-ed329030ec7e" />
-<img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 44" src="https://github.com/user-attachments/assets/d14f48dd-9ee8-4ee6-9057-50be3d7dda5e" />
 
 # 🍔 FoodDeliveryApp – iOS
 
