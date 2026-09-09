@@ -1,22 +1,236 @@
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 41 47" src="https://github.com/user-attachments/assets/a4ea49f2-c318-4b63-af57-6e036d116916" />
 
-🚀 Exciting Project Update: Food Delivery App (iOS)
-I’m thrilled to share a sneak peek of my latest iOS project! 🍔📱 Built using Swift and UIKit, this app focuses on a clean user experience and smooth navigation for food enthusiasts.
 
-🛠️ Key Features :-
-
-Intuitive Onboarding: A warm welcome screen to get users started.
-
-Dynamic Menu: Categorized food items (Appetizers, Main Course, Desserts) for easy browsing.
-
-Seamless Cart Management: Add, remove, or adjust quantities with real-time total calculation.
-
-Streamlined Checkout: A clear order summary and one-tap order placement.
-
-Modern UI: Clean design with a focus on high-quality visuals and accessibility.
-
-This project helped me dive deeper into programmatic UI, Auto Layout, and managing state across different view controllers. Continuous learning and building! 🚀
 
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 15" src="https://github.com/user-attachments/assets/7f11d419-598e-45bb-ae83-5c7a1e50b2c4" />
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 40" src="https://github.com/user-attachments/assets/2e2df8e6-4e8c-4c7f-8403-ed329030ec7e" />
 <img width="375" height="667" alt="Simulator Screenshot - iPhone 14 Pro - 2026-02-18 at 23 46 44" src="https://github.com/user-attachments/assets/d14f48dd-9ee8-4ee6-9057-50be3d7dda5e" />
+
+# 🍔 FoodDeliveryApp – iOS
+
+<p align="center">
+  <strong>A modern Food Delivery iOS application built using Swift and UIKit.</strong>
+</p>
+
+<p align="center">
+  Browse restaurants, explore food categories, add items to your cart, and place food orders through a clean and intuitive interface.
+</p>
+
+---
+
+## 📱 About The Project
+
+**FoodDeliveryApp** is an iOS food delivery application developed using **Swift + UIKit**.
+
+The application focuses on providing a smooth food-ordering experience with a clean UI, reusable components, and a structured iOS architecture.
+
+This project was created to demonstrate practical iOS development skills including UI development, navigation, collection/table views, API integration, and application architecture.
+
+---
+
+## ✨ Features
+
+* 🏠 Home screen with food and restaurant listings
+* 🍕 Food categories
+* 🔍 Search functionality
+* 🏪 Restaurant listing
+* 🍔 Food item details
+* 🛒 Add to Cart
+* ➕➖ Increase/decrease food quantity
+* 💰 Cart price calculation
+* 📦 Order/Checkout flow
+* ❤️ Favorite items
+* 📱 Responsive iOS UI
+* 🎨 Clean and modern interface
+* 🔄 API integration
+* ⚡ Smooth navigation and user experience
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology                 | Usage                    |
+| -------------------------- | ------------------------ |
+| **Swift**                  | Programming Language     |
+| **UIKit**                  | User Interface           |
+| **Storyboard / XIB**       | UI Development           |
+| **UICollectionView**       | Food & category listings |
+| **UITableView**            | Lists and order details  |
+| **REST API**               | Backend communication    |
+| **URLSession / Alamofire** | Networking               |
+| **Codable**                | JSON Parsing             |
+| **MVC / MVVM**             | Architecture             |
+| **Xcode**                  | Development Environment  |
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+<p align="center">
+  <img src="Screenshots/home.png" width="250">
+</p>
+
+### 🍔 Food Categories
+
+<p align="center">
+  <img src="Screenshots/categories.png" width="250">
+</p>
+
+### 🍕 Food Details
+
+<p align="center">
+  <img src="Screenshots/food-details.png" width="250">
+</p>
+
+### 🛒 Cart
+
+<p align="center">
+  <img src="Screenshots/cart.png" width="250">
+</p>
+
+### 📦 Checkout / Order
+
+<p align="center">
+  <img src="Screenshots/checkout.png" width="250">
+</p>
+
+---
+
+## 📂 Project Structure
+
+```text
+FoodDeliveryApp/
+│
+├── AppDelegate/
+├── SceneDelegate/
+│
+├── Models/
+│   ├── FoodModel.swift
+│   ├── RestaurantModel.swift
+│   └── OrderModel.swift
+│
+├── Views/
+│   ├── FoodCollectionViewCell.swift
+│   ├── RestaurantTableViewCell.swift
+│   └── CartTableViewCell.swift
+│
+├── ViewControllers/
+│   ├── HomeViewController.swift
+│   ├── FoodDetailsViewController.swift
+│   ├── CartViewController.swift
+│   └── CheckoutViewController.swift
+│
+├── Network/
+│   └── NetworkManager.swift
+│
+├── Resources/
+│
+└── Assets.xcassets
+```
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+
+* macOS
+* Xcode
+* iOS Simulator or physical iPhone
+* Swift
+* iOS 15.0+
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/FoodDeliveryApp-iOS.git
+```
+
+Navigate to the project:
+
+```bash
+cd FoodDeliveryApp-iOS
+```
+
+Open the project in Xcode:
+
+```bash
+open FoodDeliveryApp.xcodeproj
+```
+
+Select an iPhone Simulator and press:
+
+```text
+⌘ + R
+```
+
+---
+
+## 🔐 API Configuration
+
+If the application uses external APIs, add your API configuration locally.
+
+**Do not commit API keys, tokens, passwords, or other secrets to GitHub.**
+
+Use a configuration file or environment-based approach for sensitive values.
+
+---
+
+## 🎯 What I Learned
+
+Through this project, I practiced:
+
+* Building iOS applications using Swift
+* UIKit-based UI development
+* UICollectionView and UITableView
+* Storyboard and XIB
+* REST API integration
+* JSON parsing using Codable
+* MVC/MVVM architecture
+* Navigation and data passing
+* Cart and order management
+* Reusable UI components
+* Debugging and error handling
+* Git and GitHub version control
+
+---
+
+## 🔮 Future Improvements
+
+* [ ] User Authentication
+* [ ] Firebase integration
+* [ ] Online payment integration
+* [ ] Live order tracking
+* [ ] Push notifications
+* [ ] Google Maps integration
+* [ ] Restaurant reviews & ratings
+* [ ] Dark Mode
+* [ ] Order history
+* [ ] Profile management
+
+---
+
+## 👨‍💻 Author
+
+**Anil Kumar Yadav**
+
+**iOS Developer | Swift | UIKit**
+
+* GitHub: `https://github.com/YOUR_USERNAME`
+* LinkedIn: `https://www.linkedin.com/in/YOUR_USERNAME/`
+
+---
+
+## ⭐ Support
+
+If you find this project useful, consider giving it a ⭐ on GitHub.
+
+---
+
+## 📄 License
+
+This project is available for learning and portfolio purposes.
